@@ -52,7 +52,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png"
   },
@@ -135,7 +135,7 @@
           },
           "_name": "content04",
           "_sourceTheme": "beveragem5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Article\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\">\n\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#1a449a\">\n    </mbr-parameters>\n    <svg class=\"svg-top\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 1600 40\" style=\"enable-background:new 0 0 1600 40;\" preserveAspectRatio=\"none\">\n        <style type=\"text/css\">\n            .st0 {\n                fill: #1A449A;\n            }\n        </style>\n        <path class=\"st0\" d=\"M-1,15.7c200.1,0,200.7,13.8,400.9,13.8C600,29.5,600.4,9.3,800.5,9.3S998.8,36.8,1199,36.8\n\ts201.9-21.1,402-21.1v24.1L-1,40V15.7z\"></path>\n    </svg>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n\n        <div class=\"row justify-content-center\">\n            <div class=\"col-lg-4 align-left col-md-12\">\n                <h3 class=\"mbr-section-title mbr-fonts-style pb-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\"><b>Kontakta mig</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\"><b>Proin consequat placerat\n                        eros hendrerit massa nec.</b></h4>\n\n            </div>\n            <div class=\"col-md-12 col-md-12 align-left col-lg-8\">\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">\n                    Kontakta mig gärna om du har frågor, funderingar eller har något annat ärende via mail eller via telefon. Min mail är fredrikk39@gmail.com. Mitt telefon nr är 0768-222429. Mig hittar du också på de stora sociala medierna <a href=\"https://www.linkedin.com/in/fredrik-karlsson-47b0bb98/\" class=\"text-white\" target=\"_blank\"><b>Linkedin</b></a> och <a href=\"https://www.facebook.com/profile.php?id=100075448939676\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a>. Besök gärna min <a href=\"https://frekar06.github.io/FKSite/\" class=\"text-white\" target=\"_blank\"><b>personliga hemsida</b></a> för information om bland annat mina aktiviteter online.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content4\" group=\"Article\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\">\n\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#1a449a\">\n    </mbr-parameters>\n    <svg class=\"svg-top\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 1600 40\" style=\"enable-background:new 0 0 1600 40;\" preserveAspectRatio=\"none\">\n        <style type=\"text/css\">\n            .st0 {\n                fill: #1A449A;\n            }\n        </style>\n        <path class=\"st0\" d=\"M-1,15.7c200.1,0,200.7,13.8,400.9,13.8C600,29.5,600.4,9.3,800.5,9.3S998.8,36.8,1199,36.8\n\ts201.9-21.1,402-21.1v24.1L-1,40V15.7z\"></path>\n    </svg>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n\n        <div class=\"row justify-content-center\">\n            <div class=\"col-lg-4 align-left col-md-12\">\n                <h3 class=\"mbr-section-title mbr-fonts-style pb-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\"><b>Kontakt och&nbsp;</b><b>Sociala medier</b></h3>\n                <h4 class=\"mbr-section-subtitle mbr-fonts-style mb-2\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\"><b>Proin consequat placerat\n                        eros hendrerit massa nec.</b></h4>\n\n            </div>\n            <div class=\"col-md-12 col-md-12 align-left col-lg-8\">\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">\n                    Kontakta mig gärna om du har frågor, funderingar eller har något annat ärende via mail eller via telefon. Min mail är fredrikk39@gmail.com. Mitt telefon nr är 0768-222429. Mig hittar du också på de stora sociala medierna <a href=\"https://www.linkedin.com/in/fredrik-karlsson-47b0bb98/\" class=\"text-white\" target=\"_blank\"><b>Linkedin</b></a> och <a href=\"https://www.facebook.com/profile.php?id=100075448939676\" class=\"text-white\" target=\"_blank\"><b>Facebook</b></a>. Besök gärna min <a href=\"https://frekar06.github.io/FKSite/\" class=\"text-white\" target=\"_blank\"><b>personliga hemsida</b></a> för information om bland annat mina aktiviteter online.<br><br>På min <a href=\"https://www.youtube.com/channel/UCdQRgZa9hqifnNo0AaipXTg\" class=\"text-white\" target=\"_blank\"><b>Youtube kanal</b></a> publicerar jag kortare video föreläsningar som tar upp vad som hänt och vad som händer i vår omvärld utifrån ett samhällsvetenskapligt och humanistiskt perspektiv. Jag har till exempel laddat upp video om barnkonventionen, första världskriget och mellankrigstiden på min Youtube kanal. Jag driver också en podcast som distribueras via min <a href=\"https://soundcloud.com/fredrik-karlsson-861213\" class=\"text-white\" target=\"_blank\"><b>profil på Soundcloud</b></a>.&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sR5iZHJ2EH",
           "_anchor": "content04-l",
           "_protectedParams": [],
@@ -412,105 +412,30 @@
         {
           "alias": false,
           "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)",
               ".svg-top": {
                 "display": "none"
               }
             },
-            ".mbr-section-title": {
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "overflow": "hidden",
+            ".media-container-row .mbr-text": {
               "color": "#1a449a"
-            },
-            ".mbr-text": {
-              "color": "#1a449a"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#1a449a"
-            },
-            ".svg-top": {
-              "width": "100%",
-              "position": "absolute",
-              "left": "0",
-              "top": "-48px",
-              "height": "50px",
-              "transform-origin": "bottom",
-              "animation": "1.5s ease-in-out infinite alternate svg-wave",
-              ".st0": {
-                "fill": "@bg-value"
-              },
-              "@media (max-width: 992px)": {
-                "width": "1000px"
-              },
-              "fill": "@primaryColor"
-            },
-            "@keyframes svg-wave": {
-              "from": {
-                "transform": "scaleX(1) scaleY(1.1)"
-              },
-              "to": {
-                "transform": "scaleX(1) scaleY(1.6)"
-              }
-            },
-            "@keyframes line": {
-              "0%": {
-                "transform": "scaleX(1)"
-              },
-              "50%": {
-                "transform": "scaleX(0)"
-              },
-              "100%": {
-                "transform": "scaleX(1)"
-              }
-            },
-            "h5": {
-              "position": "relative",
-              "display": "inline-block",
-              "width": "fit-content",
-              "margin-left": "70px",
-              "&:before": {
-                "content": "''",
-                "position": "absolute",
-                "left": "-65px",
-                "top": "50%",
-                "transform-origin": "right",
-                "height": "2px",
-                "width": "45px",
-                "background": "currentColor"
-              },
-              "&:hover": {
-                "&:before": {
-                  "animation": "1s ease-in-out alternate line"
-                }
-              },
-              "@media (max-width: 767px)": {
-                "margin-left": "0px",
-                "&:before": {
-                  "bottom": "-5px",
-                  "top": "auto",
-                  "left": "50%",
-                  "transform": "translateX(-50%)"
-                },
-                "&:hover": {
-                  "&:before": {
-                    "animation": "none"
-                  }
-                }
-              }
             }
           },
-          "_name": "header04",
+          "_name": "footer02",
           "_sourceTheme": "beveragem5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header4\" group=\"Header\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"12\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#f8f8f8\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <svg class=\"svg-top\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 1600 40\" style=\"enable-background:new 0 0 1600 40;\" preserveAspectRatio=\"none\">\n        <style type=\"text/css\">\n            .st0 {\n                fill: #1A449A;\n            }\n        </style>\n        <path class=\"st0\" d=\"M-1,15.7c200.1,0,200.7,13.8,400.9,13.8C600,29.5,600.4,9.3,800.5,9.3S998.8,36.8,1199,36.8\n\ts201.9-21.1,402-21.1v24.1L-1,40V15.7z\"></path>\n    </svg>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 content align-left col-lg-{{textWidth}}\">\n                <h5 class=\"mbr-section-subtitle mbr-fonts-style mb-3\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle, .content\" mbr-theme-style=\"display-5\"><b>Ljud och rörlig bild</b></h5>\n                <h3 class=\"mbr-section-title mbr-fonts-style pb-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\"><b>Podcast och Youtube kanal</b></h3>\n                <p class=\"mbr-text mbr-fonts-style\" data-app-selector=\".mbr-text\" mbr-theme-style=\"display-7\">\n                    På min <a href=\"https://www.youtube.com/channel/UCdQRgZa9hqifnNo0AaipXTg\" class=\"text-primary\" target=\"_blank\">Youtube kanal</a> publicerar jag kortare video föreläsningar som tar upp vad som hänt och vad som händer i vår omvärld utifrån ett samhällsvetenskapligt och humanistiskt perspektiv. Jag har till exempel laddat upp video om barnkonventionen, första världskriget och mellankrigstiden på min Youtube kanal. Jag driver också en podcast som distribueras via <a href=\"https://frekar06.github.io/FKPodcast/\" class=\"text-primary\" target=\"_blank\">hemsidan Fredriks podcast</a> och via <a href=\"https://soundcloud.com/fredrik-karlsson-861213/egyptisk-religion?in=fredrik-karlsson-861213/sets/egypten\" class=\"text-primary\" target=\"_blank\">min profil på Soundcloud</a>.&nbsp;</p>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "sR5uZH0NnH",
-          "_anchor": "header04-s",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer2\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#f8f8f8\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"><b>\n                        © Copyright 2021. Fredrik Karlsson. All rights reserved.</b></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sR5yUarqsO",
+          "_anchor": "footer02-t",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
+          "_global": true,
+          "_once": "footers",
           "_params": {}
         }
       ]
